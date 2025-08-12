@@ -14,6 +14,10 @@ npm run dev
 
 Abra [http://localhost:3000](http://localhost:3000) com o seu navegador para ver o resultado.
 
+Para ligar o servidor em produção, acesse [AQUI](https://trader-dashboard-backend.onrender.com/) e aguarde até, no máximo, 1 minuto para que a plataforma inicie tudo.
+
+O repositório do backend está [AQUI](https://github.com/kelvindemirandabarros/trader_dashboard_backend).
+
 ## Aprenda mais sobre Next.js
 
 Para aprender mais sobre Next.js, dê uma olhada nos seguintes recursos:
