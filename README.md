@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Trader Dashboard Frontend
 
-## Getting Started
+Frontend para o projeto de Dashboard para Trader descrito em `docs/PROJETO.md`.
 
-First, run the development server:
+Este é um projeto [Next.js](https://nextjs.org) inicializado com o comando [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Ligando o servidor
+
+Para ligar o servidor de desenvolvimento, digite no prompt de comando:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) com o seu navegador para ver o resultado.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Aprenda mais sobre Next.js
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Para aprender mais sobre Next.js, dê uma olhada nos seguintes recursos:
 
-## Learn More
+- [Documentação Next.js](https://nextjs.org/docs) - saiba mais sobre os recursos e a API do Next.js.
+- [Aprenda Next.js](https://nextjs.org/learn) - um tutorial interativo do Next.js.
 
-To learn more about Next.js, take a look at the following resources:
+## Deploy na Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este projeto já está hospedado em https://trader-dashboard-frontend.vercel.app/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Todas as alterações enviadas para a branch `master` são enviadas automaticamente para a hospedagem na Vercel e ficam online.
