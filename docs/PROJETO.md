@@ -13,7 +13,7 @@ Checklist para desenvolvimento do frontend. Itens concluídos marcados com :whit
 
 ## Tasks
 
-- [ :white_check_mark: ] Next.js (React) + TypeScript + TailwindCSS
+- [:white_check_mark:] Next.js (React) + TypeScript + TailwindCSS
 - [:white_check_mark:] Página protegida com login
 - [:white_check_mark:] Autenticação leve (JWT / sessão)
 - [ ] Visualização: Chart.js / ApexCharts / Echarts
