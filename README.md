@@ -18,6 +18,11 @@ Para ligar o servidor em produção, acesse [AQUI](https://trader-dashboard-back
 
 O repositório do backend está [AQUI](https://github.com/kelvindemirandabarros/trader_dashboard_backend).
 
+## Login
+
+email => teste@email.com
+senha => teste321
+
 ## Aprenda mais sobre Next.js
 
 Para aprender mais sobre Next.js, dê uma olhada nos seguintes recursos:
