@@ -1,6 +1,6 @@
 # Trader Dashboard Frontend
 
-Frontend para o projeto de Dashboard para Trader descrito em `docs/PROJETO.md`.
+Frontend para o projeto de Dashboard para Trader descrito em [`docs/PROJETO.md`](https://github.com/kelvindemirandabarros/trader_dashboard_frontend/tree/master/docs/PROJETO.md).
 
 Este é um projeto [Next.js](https://nextjs.org) inicializado com o comando [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
