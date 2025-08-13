@@ -27,19 +27,18 @@ Checklist para desenvolvimento do frontend. Itens concluídos marcados com :whit
 - [ ] Feed ou contador em tempo real refletindo novos eventos (via WebSocket)
 - [ ] Filtros: intervalo de tempo e tipo de evento
 - [ ] Indicador de “última atualização” / saúde (ex: “há 12s desde o último evento”)
-
-  - [ ] README.md com:
-    - Como rodar localmente (com e sem Docker)
-    - Escolha de banco de dados e justificativa
-    - Como disparar o webhook (ex: exemplo com curl)
-    - Como obter/atualizar o insight da OpenAI (configuração de chave via .env.example)
-
-2. Endpoint de webhook documentado (payload de exemplo)
-3. Dashboard funcional com:
-   - Gráficos com dados
-   - Atualizações em tempo real
-   - Insight da OpenAI exibido
-4. (Opcional) Deploy mínimo (ex: Vercel frontend + backend acessível via túnel/ngrok ou hospedado)
+- [ ] README.md com:
+  - [:white_check_mark:] Como rodar localmente (sem Docker)
+  - [ ] Como rodar localmente (com Docker)
+  - [ ] Escolha de banco de dados e justificativa
+  - [ ] Como disparar o webhook (ex: exemplo com curl)
+  - [ ] Como obter/atualizar o insight da OpenAI (configuração de chave via .env.example)
+- [ ] Endpoint de webhook documentado (payload de exemplo)
+- [ ] Dashboard funcional com:
+  - Gráficos com dados
+  - Atualizações em tempo real
+  - Insight da OpenAI exibido
+- [:white_check_mark:] (Opcional) Deploy mínimo (ex: Vercel frontend + backend acessível via túnel/ngrok ou hospedado)
 
 ## Descrição
 
