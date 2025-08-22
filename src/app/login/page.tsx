@@ -106,7 +106,12 @@ export default function LoginPage() {
           </CardContent>
 
           <CardFooter className='flex flex-col gap-4'>
-            <Button className='w-full' type='submit' disabled={isLoading}>
+            <Button
+              className='w-full'
+              type='submit'
+              variant='default'
+              disabled={isLoading}
+            >
               {isLoading ? 'Entrando...' : 'Entrar'}
             </Button>
 
